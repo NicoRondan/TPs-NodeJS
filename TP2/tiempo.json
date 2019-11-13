@@ -1,0 +1,34 @@
+{
+  "datos": [
+    {
+      "localidad": {
+        "nombre": "Cordoba Curay, Colombia"
+      },
+      "tiempo": {
+        "temperatura": 25.55,
+        "presion": 1014.67,
+        "humedad": 83
+      }
+    },
+    {
+      "localidad": {
+        "nombre": "Mendoza, Argentina"
+      },
+      "tiempo": {
+        "temperatura": 18,
+        "presion": 1017,
+        "humedad": 31
+      }
+    },
+    {
+      "localidad": {
+        "nombre": "Concordia, Argentina"
+      },
+      "tiempo": {
+        "temperatura": 12.22,
+        "presion": 1019,
+        "humedad": 87
+      }
+    }
+  ]
+}
